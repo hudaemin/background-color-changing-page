@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(112, 112, 113);
+    color: white;
+    cursor: pointer;
+    border-radius: 50% ;
+   
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
+}
